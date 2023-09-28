@@ -19,5 +19,6 @@ output application/json
 "Success"]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
+		<logger level="INFO" doc:name="Logger" doc:id="52a50140-d62b-4e2b-b0e8-7545b6a27e28" message="Completed running flow"/>
 	</flow>
 </mule>
