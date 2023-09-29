@@ -43,7 +43,6 @@
 						<workerType>${vCore}</workerType>
 						<workers>${workers}</workers>
 						<objectStoreV2>true</objectStoreV2>
-						<disableCloudHubLogs>true</disableCloudHubLogs>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
